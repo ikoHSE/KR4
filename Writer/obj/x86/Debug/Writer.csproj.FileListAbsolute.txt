@@ -1,0 +1,5 @@
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Writer/obj/x86/Debug/Writer.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Writer/bin/Debug/Writer.exe
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Writer/bin/Debug/Writer.pdb
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Writer/obj/x86/Debug/Writer.exe
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Writer/obj/x86/Debug/Writer.pdb

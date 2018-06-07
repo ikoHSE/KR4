@@ -1,0 +1,5 @@
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Reader/bin/Debug/Reader.exe
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Reader/bin/Debug/Reader.pdb
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Reader/obj/x86/Debug/Reader.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Reader/obj/x86/Debug/Reader.exe
+/Users/ilya/Developer/HSE/Костюченко_4/KR4/Reader/obj/x86/Debug/Reader.pdb
